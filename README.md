@@ -1,2 +1,2 @@
-# pyinventory
-Inventory of python scripts and methods
+# kirstu
+Collection of scripts and methods
