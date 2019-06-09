@@ -14,6 +14,7 @@ dependencies:
   - matplotlib
   - h5py
   - pillow
+  - pip
   - pip:
     - nibabel
     - gendocs
