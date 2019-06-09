@@ -65,6 +65,8 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+docs/_static/
+docs/_templates/
 
 # PyBuilder
 target/
@@ -96,6 +98,9 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
+
+# PyCharm project settings
+.idea
 
 # mkdocs documentation
 /site

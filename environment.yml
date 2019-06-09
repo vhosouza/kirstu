@@ -1,0 +1,20 @@
+name: kirstu
+channels:
+  - default
+  - conda-forge
+  - bioconda
+dependencies:
+  - python==3.7  
+  - numpy
+  - scipy
+  - scikit-image
+  - ipython
+  - jupyter
+  - notebook
+  - matplotlib
+  - h5py
+  - pillow
+  - pip:
+    - nibabel
+    - gendocs
+    - cookiecutter
