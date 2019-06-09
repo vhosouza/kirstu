@@ -18,3 +18,4 @@ dependencies:
     - nibabel
     - gendocs
     - cookiecutter
+    - sphinx_rtd_theme
